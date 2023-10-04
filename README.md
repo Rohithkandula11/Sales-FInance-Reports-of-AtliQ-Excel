@@ -58,7 +58,7 @@ Our finance reports play a critical role by:
 
 - **Instilling Confidence in Financial Outlook:** Providing accurate financial outlooks instills confidence in our stakeholders regarding our financial stability and performance.
 
-# Read Me - Technical and Soft Skills
+# Technical and Soft Skills
 
 ## Technical Skills Acquired:
 
