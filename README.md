@@ -84,7 +84,7 @@ Our finance reports play a critical role by:
 
 - **Developing a Systematic Approach to Report Building:** Established a systematic approach to devising a report building plan, improving the organization and consistency of reporting processes.
 
-## Finance Reports
+## Finance Reports Details
 
 ### Report 1: Gross Margin % by Quarters
 The "Gross Margin % by Quarters" report calculates and presents the Gross Margin percentage for each quarter, helping you analyze profitability trends throughout the year.
@@ -104,7 +104,7 @@ The "P & L by Quarters on Year" report breaks down the Profit and Loss (P&L) sta
 ### Report 6: P & L for Markets
 This report focuses on the Profit and Loss (P&L) statement for specific markets, enabling a deeper understanding of our financial performance within each market segment.
 
-## Sales Reports
+## Sales Reports Details
 
 ### Report 1: Net Sales Performance by Customers
 The "Net Sales Performance by Customers" report offers a detailed analysis of individual customer sales performance, allowing you to gain insights into customer-specific sales trends and patterns.
