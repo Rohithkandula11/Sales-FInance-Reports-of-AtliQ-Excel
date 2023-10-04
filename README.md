@@ -58,6 +58,32 @@ Our finance reports play a critical role by:
 
 - **Instilling Confidence in Financial Outlook:** Providing accurate financial outlooks instills confidence in our stakeholders regarding our financial stability and performance.
 
+# Read Me - Technical and Soft Skills
+
+## Technical Skills Acquired:
+
+- **ETL Methodology Proficiency (Extract, Transform, Load):** Developed the expertise to efficiently extract, transform, and load data, ensuring data accuracy and consistency.
+
+- **Date Table Generation with Power Query:** Acquired skills in generating date tables using Power Query, a valuable asset for time-based data analysis.
+
+- **Fiscal Month and Quarter Derivation:** Gained the ability to derive fiscal months and quarters, facilitating financial reporting and analysis.
+
+- **Data Model Relationships with Power Pivot:** Established data model relationships using Power Pivot, enabling complex data analysis and visualization.
+
+- **Incorporating Supplementary Data:** Proficiently incorporated supplementary data into existing data models, enhancing the depth of analysis.
+
+- **DAX (Data Analysis Expressions) Usage:** Utilized DAX to create calculated columns, allowing for custom calculations and insights.
+
+## Soft Skills Developed:
+
+- **Refined Understanding of Sales & Finance Reports:** Developed a deeper comprehension of sales and finance reports, enabling better analysis and interpretation.
+
+- **Designing User-Centric Reports with Empathy:** Emphasized user-centric report design, considering end-users' needs and preferences to enhance report usability.
+
+- **Optimization of Report Generation:** Meticulously fine-tuned report generation processes for efficiency, ensuring timely and accurate reporting.
+
+- **Developing a Systematic Approach to Report Building:** Established a systematic approach to devising a report building plan, improving the organization and consistency of reporting processes.
+
 ## Finance Reports
 
 ### Report 1: Gross Margin % by Quarters
